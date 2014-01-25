@@ -1,0 +1,39 @@
+---
+title       : Startup Quotes 
+subtitle    : A personal collection
+author      : Nehil Jain
+job         : Entreprenuer
+framework   : shower        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+---
+
+# Get Inspired
+
+
+--- 
+
+## Lean Startup
+
+> Don't sell what you can make;
+> make what you can sell
+>
+
+
+
+24 Jan, 2014 from 
+xix, Lean Analytics
+
+--- 
+
+## Lean Analytics
+
+> If you cannot measure it,
+> you cannot manage it
+
+
+
+24 Jan, 2014 from 
+Pg-4, Lean Analytics
